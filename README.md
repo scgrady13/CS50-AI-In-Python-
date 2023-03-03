@@ -1,6 +1,6 @@
 # CS50 AI in Python Projects
 
-This repository contains all the projects completed by [Your Name] for the Harvard CS50 Artificial Intelligence with Python course.
+This repository contains all the projects completed by Sean Grady for the Harvard CS50 Artificial Intelligence with Python course.
 
 ## Course Description
 
@@ -18,7 +18,7 @@ This course explores the concepts and algorithms at the foundation of modern art
 
 1. Clone the repository to your local machine:
 
-git clone https://github.com/[Your Username]/cs50-ai-projects.git
+git clone https://github.com/scgrady13/CS50-AI-In-Python-.git
 
 2. Install the required packages:
 
@@ -34,6 +34,6 @@ Each project has its own directory containing a README file with specific instru
 
 ## Credits
 
-The projects and specifications were created by Harvard University's CS50 team for the CS50 AI with Python course. Any additional code was written by [Your Name].
+The projects and specifications were created by Harvard University's CS50 team for the CS50 AI with Python course. Any additional code was written by Sean Grady.
 
 
